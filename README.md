@@ -3,19 +3,19 @@ Self-Driving Car Engineer Nanodegree Program
 
 [//]: # (Image References)
 [image1]: ./Doc/UnscentedFilterFlow.png
-[image2]: ./Doc/AugumentedSigmaMatrix.png
-[image3]: ./Doc/AugmentedMatrix.png
-[image4]: ./Doc/SigmaPredictions.png
-[image5]: ./Doc/WeightedAverage.png
-[image6]: ./Doc/MeasurementPredictions.png
-[image7]: ./Doc/MeasurementUpdate.png
-[image8]: ./Doc/RMSE_Results_Data1.png
-[image9]: ./Doc/RMSE_Results_Data2.png
+[image2]: ./Doc/AugumentedSigmaMatrix.PNG
+[image3]: ./Doc/AugmentedMatrix.PNG
+[image4]: ./Doc/SigmaPredictions.PNG
+[image5]: ./Doc/WeightedAverage.PNG
+[image6]: ./Doc/MeasurementPredictions.PNG
+[image7]: ./Doc/MeasurementUpdate.PNG
+[image8]: ./Doc/RMSE_Results_Data1.PNG
+[image9]: ./Doc/RMSE_Results_Data2.PNG
 [image10]: ./Doc/NIS_table.png
-[image11]: ./Doc/NISLaser1.png
-[image12]: ./Doc/NISLaser2.png
-[image13]: ./Doc/NISRadar1.png
-[image14]: ./Doc/NISRadar2.png
+[image11]: ./Doc/NISLaser1.PNG
+[image12]: ./Doc/NISLaser2.PNG
+[image13]: ./Doc/NISRadar1.PNG
+[image14]: ./Doc/NISRadar2.PNG
 
 In this project utilize an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. The finished C++ code could compile without errors, and the testing results showed that position and velocity RMSE [0.0788, 0.0935, 0.3504, 0.2717] from the algorithm outputs are less than [0.09, 0.1, 0.40, 0.30]. 
 
